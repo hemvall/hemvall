@@ -14,6 +14,20 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
 
 ## 🛠️ Technologies & Tools
+<h4 align="left">Backend</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=c, cpp, cs, dotnet, py, mongodb, mysql, postman)](https://skillicons.dev)
+
+<h4 align="left">Frontend</h4>
+[![My Skills](https://skillicons.dev/icons?i=vue,react, flutter, dart, js, ts, vite, html, css)](https://skillicons.dev)
+
+<h4 align="left">Devops</h4>
+[![My Skills](https://skillicons.dev/icons?i=gitlab, azure, docker, git, css)](https://skillicons.dev)
+
+<h4 align="left">Infra</h4>
+[![My Skills](https://skillicons.dev/icons?i=windows, linux, gcp)](https://skillicons.dev)
+
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
