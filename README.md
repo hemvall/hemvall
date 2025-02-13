@@ -14,6 +14,8 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
 
 ## 🛠️ Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <h4 align="left">Backend</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=c, cpp, cs, dotnet, py, mongodb, mysql, postman)](https://skillicons.dev)
