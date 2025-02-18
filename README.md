@@ -2,6 +2,9 @@
 
 ## 🚀 Current Projects
 
+### [SolPooler](https://github.com/hemvall/sol-pooler-telegram-bot)
+A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
+
 ### [ClaimIt](https://github.com/hemvall/ClaimIt)
 An extension for Chrome to help users track and claim crypto airdrops automatically. Features include:
 - Portfolio integration
@@ -10,8 +13,6 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 - Real-time notifications
 - Multi-chain support (Ethereum, Polygon, BSC, etc.)
 
-### [SolPooler](https://github.com/hemvall/sol-pooler-telegram-bot)
-A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?c, cpp, cs, dotnet, py, mongodb, mysql, postman)](https://skillicons.dev)
