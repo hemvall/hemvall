@@ -15,22 +15,39 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?c, cpp, cs, dotnet, py, mongodb, mysql, postman)](https://skillicons.dev)
-
 <h4 align="left">Backend</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=c, cpp, cs, dotnet, py, mongodb, mysql, postman)](https://skillicons.dev)
-
+<li>C</li>
+<li>C++</li>
+<li>C#</li>
+<li>.NET</li>
+<li>Python</li>
+<li>SqlServer</li>
+<li>MySql</li>
+<li>Postman</li>
 <h4 align="left">Frontend</h4>
-[![My Skills](https://skillicons.dev/icons?i=vue,react, flutter, dart, js, ts, vite, html, css)](https://skillicons.dev)
+<li>Vue</li>
+<li>React</li>
+<li>Flutter</li>
+<li>Dart</li>
+<li>JavaScript</li>
+<li>Typescript</li>
+<li>Vite.js</li>
+<li>HTML</li>
+<li>CSS</li>
 
 <h4 align="left">Devops</h4>
-[![My Skills](https://skillicons.dev/icons?i=gitlab, azure, docker, git, css)](https://skillicons.dev)
+<li>Gitlab CI</li>
+<li>Azure Devops</li>
+<li>Docker</li>
+<li>Git</li>
+<li>CSS</li>
 
-<h4 align="left">Infra</h4>
-[![My Skills](https://skillicons.dev/icons?i=windows, linux, gcp)](https://skillicons.dev)
+<h4 align="left">Blockchain</h4>
+<li>Smart Contracts</li>
+<li>Blockchain Interaction</li>
+<li>Telegram Bots</li>
 
-
+<!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -43,7 +60,7 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 
 - **Tools:** Git, Gitlab, Azure Devops, Docker, Telegram Bot API
 - **Blockchain:** Smart Contracts, Crypto (Airdrops, Multi-chain support)
-
+-->
 ## 👨‍💻 About Me
 
 I'm always eager to learn and take on new challenges, from full-stack development to experimenting with blockchain technologies. Currently, I'm diving deeper into decentralized apps (dApps) and building crypto-related tools like airdrop tracker and portfolio trackers.
