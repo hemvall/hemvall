@@ -10,9 +10,10 @@ An extension for Chrome to help users track and claim crypto airdrops automatica
 - 🌱 **Suggested Projects** - Offers a list of projects you might be interested in farming.
 - 🔗 **Wallet Integration** – Connect your wallets (MetaMask, WalletConnect)
 - 🔍 **Airdrop Finder** – Scrape new airdrop opportunities and get notified when eligible
-- 
+
 ### [SolPooler](https://github.com/hemvall/sol-pooler-telegram-bot)
 A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
+
 
 ## 👨‍💻 About Me
 
