@@ -4,11 +4,12 @@
 
 ### [ClaimIt](https://github.com/hemvall/ClaimIt)
 An extension for Chrome to help users track and claim crypto airdrops automatically. Features include:
-- Portfolio integration
-- Airdrop dashboard
-- One-click claim
-- Real-time notifications
-- Multi-chain support (Ethereum, Polygon, BSC, etc.)
+- 📊 **Airdrop Dashboard** – View past, active, and upcoming airdrops
+- 🎯 **Live Quests** - Engaging missions designed to enhance participation and optimize your farming.
+- 🔔 **Real-time Alerts** – Get notified when you qualify for an airdrop
+- 🌱 **Suggested Projects** - Offers a list of projects you might be interested in farming.
+- 🔗 **Wallet Integration** – Connect your wallets (MetaMask, WalletConnect)
+- 🔍 **Airdrop Finder** – Scrape new airdrop opportunities and get notified when eligible
 - 
 ### [SolPooler](https://github.com/hemvall/sol-pooler-telegram-bot)
 A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
