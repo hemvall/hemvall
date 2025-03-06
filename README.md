@@ -38,12 +38,12 @@ Feel free to reach out to me for any collaboration, open-source contributions, o
 ##💡Project ideas
   ### - 💡Automation – LinkedIn Lead Scraper 💼
 📌 Example: LinkedIn Contact Extractor
-🔹 Scrapes LinkedIn profiles and exports emails/phone numbers.
-🔹 Useful for sales teams & recruiters.
-🔹 Potential Monetization: Sell the script or provide scraping services.
-🔹 Repo: LinkedIn-Scraper
-🔹 Tech: Python, Selenium, BeautifulSoup, Pandas
-🔹 README: "Extract LinkedIn contacts in seconds"
-🔹 💡 Why? Every business needs leads → Your tool saves them time.
+- 🔹 Scrapes LinkedIn profiles and exports emails/phone numbers.
+- 🔹 Useful for sales teams & recruiters.
+- 🔹 Potential Monetization: Sell the script or provide scraping services.
+- 🔹 Repo: LinkedIn-Scraper
+- 🔹 Tech: Python, Selenium, BeautifulSoup, Pandas
+- 🔹 README: "Extract LinkedIn contacts in seconds"
+- 🔹 💡 Why? Every business needs leads → Your tool saves them time.
 
 
