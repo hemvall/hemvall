@@ -35,8 +35,8 @@ Feel free to reach out to me for any collaboration, open-source contributions, o
 - **Email:** [hemvall.mn@gmail.com]
 - **LinkedIn:** [[LinkedIn Account](https://www.linkedin.com/in/louis-serrano-842b09222/)]
 
-##💡Project ideas
-  ### - 💡Automation – LinkedIn Lead Scraper 💼
+## 💡Project ideas
+  ###  💡Automation – LinkedIn Lead Scraper 💼
 📌 Example: LinkedIn Contact Extractor
 - 🔹 Scrapes LinkedIn profiles and exports emails/phone numbers.
 - 🔹 Useful for sales teams & recruiters.
