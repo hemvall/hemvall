@@ -48,4 +48,11 @@ Feel free to reach out to me for any collaboration, open-source contributions, o
 - 🔹 README: "Extract LinkedIn contacts in seconds"
 - 🔹 💡 Why? Every business needs leads → Your tool saves them time.
 
+  ### 🥸 Bullshit Job Simulator
+App qui génère une tâche bullshit random à faire quand t’es surveillé en openspace. Inclut faux rapports, Excel absurdes, mails autoenvoyés à toi-même.
+  ### 🧙‍♂️ NFT Fortune Teller
+🔮 Tu scannes ton wallet → l’appli te fait une "lecture d'avenir" en mode horoscope crypto selon tes holdings et ton historique.
+"Ton karma est obscur, tu as minté trop de rug pulls ce mois-ci."
+  ### 💩 Shitcoin Tinder
+🔥 Swipe gauche/droite sur des shitcoins randoms en découvrant leur nom, CA et tagline. Quand tu matches = t’es obligé d’en acheter 1$.
 
