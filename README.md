@@ -1,7 +1,7 @@
 # 👨‍💻 Welcome to My GitHub Profile! 
 
 ## 🚀 Current Projects
-
+ 
 ### [ClaimIt](https://github.com/hemvall/ClaimIt)
 An extension for Chrome to help users track and claim crypto airdrops automatically. Features include:
 - 📊 **Airdrop Dashboard** – View past, active, and upcoming airdrops
