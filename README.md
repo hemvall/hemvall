@@ -1,56 +1,43 @@
-# 👨‍💻 Welcome to My GitHub Profile! 
-
 ## 🚀 Current Projects
- 
+
+### [ZapPay](https://github.com/hemvall/ZapPay)
+⚡ An orchestration layer that makes Web3 payments as simple as traditional web payments.
+
+- 💳 **Multi-Crypto Support** – Accept payments in USDC, USDT, and ETH
+- 🌐 **Multiple Networks** – Support for Base and Ethereum mainnet
+- 📱 **QR Code Generation** – Easy payment request sharing via QR codes
+- ⚡ **Fast & Lightweight** – Built with Vite for optimal performance
+- 🔒 **Type-Safe** – Full TypeScript support for reliable development
+
+**Stack:** React 19 · TypeScript · Vite · React Router v7 · Lucide React · qrcode.react
+
+---
+
 ### [ClaimIt](https://github.com/hemvall/ClaimIt)
-An extension for Chrome to help users track and claim crypto airdrops automatically. Features include:
+A Chrome extension to help users track and claim crypto airdrops automatically.
+
 - 📊 **Airdrop Dashboard** – View past, active, and upcoming airdrops
-- 🎯 **Live Quests** - Engaging missions designed to enhance participation and optimize your farming.
+- 🎯 **Live Quests** – Missions designed to enhance participation and optimize farming
 - 🔔 **Real-time Alerts** – Get notified when you qualify for an airdrop
-- 🌱 **Suggested Projects** - Offers a list of projects you might be interested in farming.
-- 🔗 **Wallet Integration** – Connect your wallets (MetaMask, WalletConnect)
-- 🔍 **Airdrop Finder** – Scrape new airdrop opportunities and get notified when eligible
-- 🎰 **Gambling Mode** – Turn your airdrop into a high-stakes game! Spin our exclusive roulette for a chance to multiply your rewards. Will you cash out or go all in?
+- 🌱 **Suggested Projects** – Discover projects worth farming
+- 🔗 **Wallet Integration** – Connect MetaMask and WalletConnect
+- 🔍 **Airdrop Finder** – Scrape new opportunities and get notified when eligible
+- 🎰 **Gambling Mode** – Spin the roulette to multiply your rewards
 
-
-### [SolPooler](https://github.com/hemvall/sol-pooler-telegram-bot)
-A Python Telegram bot designed to automate the creation of Solana addresses, receive funds, and execute token purchases through contract addresses. Aimed at simplifying crypto trading and portfolio management.
-
+---
 
 ## 👨‍💻 About Me
 
-I'm always eager to learn and take on new challenges, from full-stack development to experimenting with blockchain technologies. Currently, I'm diving deeper into decentralized apps (dApps) and building crypto-related tools like airdrop tracker and portfolio trackers.
-
+I'm always eager to learn and take on new challenges, from full-stack development to experimenting with blockchain technologies. Currently, I'm diving deeper into decentralized apps (dApps) and building crypto-related tools.
 Feel free to check out my repositories and reach out if you're interested in collaborating!
 
-## 🌱 Always Learning
-
-I'm currently focused on:
-- Improving my skills in programming, develop my stack and learn about Web3 development
-- Building more blockchain projects, especially around smart contracts and crypto tools
-- Experimenting with automation and Telegram bots
+Currently focused on:
+- 🔗 Building Web3 payment infrastructure and DeFi tooling
+- 🧠 Deepening my knowledge of smart contracts and on-chain architecture
+- 🤖 Experimenting with automation, bots, and AI-powered apps
+- 🌍 Making crypto more accessible through great UX
 
 ## 📫 Contact
-
 Feel free to reach out to me for any collaboration, open-source contributions, or just a friendly chat!
-
 - **Email:** [hemvall.mn@gmail.com]
-
-## 💡Project ideas
-  ###  💡Automation – LinkedIn Lead Scraper 💼
-📌 Example: LinkedIn Contact Extractor
-- 🔹 Scrapes LinkedIn profiles and exports emails/phone numbers.
-- 🔹 Useful for sales teams & recruiters.
-- 🔹 Potential Monetization: Sell the script or provide scraping services.
-- 🔹 Repo: LinkedIn-Scraper
-- 🔹 Tech: Python, Selenium, BeautifulSoup, Pandas
-- 🔹 README: "Extract LinkedIn contacts in seconds"
-- 🔹 💡 Why? Every business needs leads → Your tool saves them time.
-
-### 🤖 Automated Reader 
-- AI Gets Image
-- Recognize image type : gives it a name
-- Takes the text from the image
-- Put it in a json format
-  
-
+---
